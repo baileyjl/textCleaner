@@ -1,2 +1,2 @@
 # textCleaner
-Package to clean social media text
+Package to clean text
